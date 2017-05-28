@@ -26,17 +26,14 @@ def get_wordnet_tag(tag):
     return None
 
 speeches = dict()
-years    = dict()
-
 for filename in glob.glob("Data/*.txt"):
   basename = os.path.basename(filename)
   name     = os.path.splitext(basename)[0]
   name     = name.replace("_", " ")
   year     = name[:4]
-  name     = name[5:]
+  name     = year+"-"+name[5:]
   with open(filename) as f:
     speech         = f.read()
-    years[name]    = int(year)
     speeches[name] = speech
 
 lemmatizer = WordNetLemmatizer()
@@ -73,5 +70,8 @@ for president in sorted(speeches.keys()):
     else:
       lemmas.add(word)
 
+  year = int(president[:4])
+  name = president[5:]
+
   num_unique_lemmas[president] = len(lemmas)
-  print('%d "%s" %d %d %f %d %d' % (years[president], president, num_sentences[president], num_words[president], avg_sentence_len[president], num_unique_words[president], num_unique_lemmas[president] ) )
+  print('%d "%s" %d %d %f %d %d' % (year, name, num_sentences[president], num_words[president], avg_sentence_len[president], num_unique_words[president], num_unique_lemmas[president] ) )
