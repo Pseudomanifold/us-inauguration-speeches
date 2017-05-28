@@ -4,8 +4,6 @@ import glob
 import nltk
 import os
 
-from nltk.corpus   import stopwords
-
 from nltk.tokenize import sent_tokenize
 from nltk.tokenize import word_tokenize
 
@@ -28,17 +26,18 @@ def get_wordnet_tag(tag):
     return None
 
 speeches = dict()
+years    = dict()
+
 for filename in glob.glob("Data/*.txt"):
   basename = os.path.basename(filename)
   name     = os.path.splitext(basename)[0]
   name     = name.replace("_", " ")
+  year     = name[:4]
+  name     = name[5:]
   with open(filename) as f:
     speech         = f.read()
+    years[name]    = int(year)
     speeches[name] = speech
-
-#
-#print(stopwords.words('english'))
-#
 
 lemmatizer = WordNetLemmatizer()
 
@@ -47,6 +46,8 @@ num_words         = dict()
 avg_sentence_len  = dict()
 num_unique_lemmas = dict() 
 num_unique_words  = dict()
+
+print("# YYYY name num_sentences num_words avg_sentence_len num_unique_words num_unique_lemmas")
 
 for president in sorted(speeches.keys()):
   speech    = speeches[president]
@@ -73,4 +74,4 @@ for president in sorted(speeches.keys()):
       lemmas.add(word)
 
   num_unique_lemmas[president] = len(lemmas)
-  print('"%s" %d %d %f %d %d' % (president, num_sentences[president], num_words[president], avg_sentence_len[president], num_unique_words[president], num_unique_lemmas[president] ) )
+  print('%d "%s" %d %d %f %d %d' % (years[president], president, num_sentences[president], num_words[president], avg_sentence_len[president], num_unique_words[president], num_unique_lemmas[president] ) )
