@@ -3,6 +3,7 @@
 # Auxiliary script for obtaining all inaugural speeches of all U.S.
 # presidents from Wikipedia.
 
+import re
 import requests
 
 from bs4          import BeautifulSoup
@@ -19,13 +20,20 @@ def getSpeech(name, url):
   page    = requests.get(url)
   content = page.content
   soup    = BeautifulSoup(content, "html.parser")
+  header  = soup.find("div", class_="gen_header_title")
   div     = soup.find(id="mw-content-text")
+  year    = re.search(r'\((\d+)\)', header.text).group(1)
 
+  # Remove all licence containers
+  licences = soup.find_all("div", class_="licenseContainer licenseBanner")
+  for licence in licences:
+    licence.decompose()
+  
   speech = ""
-  for p in div.find_all("p", recursive=False):
+  for p in div.find_all("p", recursive=True):
     speech += p.text + "\n"
 
-  return speech
+  return year,speech
   
 
 overviewURL     = "https://en.wikisource.org/wiki/Category:U.S._Presidential_Inaugural_Addresses"
@@ -44,8 +52,8 @@ for category in soup.find_all("div", class_="mw-category-group"):
 
     print("Processing %s..." % name)
 
-    url    = urljoin(baseURL, page)
-    speech = getSpeech(name, url)
+    url          = urljoin(baseURL, page)
+    year, speech = getSpeech(name, url)
 
-    with open("%s.txt" % name, "w") as f:
+    with open("%s.txt" % (year + "_" + name), "w") as f:
       f.write(speech)
