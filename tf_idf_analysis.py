@@ -83,6 +83,7 @@ if __name__ == "__main__":
                            strip_accents='unicode')
 
   tf_idf = tf_idf_vectorizer.fit_transform(filenames)
+  f      = open("/tmp/Topics_gnuplot.txt", "w")
 
   for index, filename in enumerate(filenames):
     year = filename_to_year[filename]
@@ -91,6 +92,17 @@ if __name__ == "__main__":
     top_words, top_weights = get_top_words( tf_idf[index].toarray().ravel(), tf_idf_vectorizer.get_feature_names(), tf_idf_vectorizer.idf_, num_words)
 
     print("%s (%s): %s" % (year, name, " ".join(top_words)))
+
+    for index, (word, weight) in enumerate(zip(top_words, top_weights)):
+      if max(top_weights) != min(top_weights):
+        weight = ( weight - min(top_weights) ) / ( max(top_weights) - min(top_weights) )
+      else:
+        weight = 1.0
+      print("%s %d \"%s\" %s %f" % (year, index, name, word, weight), file=f)
+
+    print("\n", file=f)
+
+  f.close()
 
   #####################################################################
   # LDA analysis
