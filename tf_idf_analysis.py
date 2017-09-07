@@ -26,11 +26,12 @@ Extracts the top n words from a row in the TF-IDF matrix. This requires
 knowledge about the feature names, i.e. the actual words present in the
 text.
 """
-def get_top_words(row, feature_names, n=5):
-  top_ids   = numpy.argsort(row)[:-n-1:-1]
-  top_names = [feature_names[i] for i in top_ids]
+def get_top_words(row, feature_names, weights, n=5):
+  top_ids     = numpy.argsort(row)[:-n-1:-1]
+  top_names   = [feature_names[i] for i in top_ids]
+  top_weights = [row[i] / weights[i] for i in top_ids]
 
-  return top_names
+  return top_names, top_weights
 
 """
 Gets all topics from a given topic model and describes them using
@@ -84,11 +85,12 @@ if __name__ == "__main__":
   tf_idf = tf_idf_vectorizer.fit_transform(filenames)
 
   for index, filename in enumerate(filenames):
-    year     = filename_to_year[filename]
-    name     = filename_to_name[filename]
-    words    = get_top_words( tf_idf[index].toarray().ravel(), tf_idf_vectorizer.get_feature_names(), num_words)
+    year = filename_to_year[filename]
+    name = filename_to_name[filename]
 
-    print("%s (%s): %s" % (year, name, " ".join(words)))
+    top_words, top_weights = get_top_words( tf_idf[index].toarray().ravel(), tf_idf_vectorizer.get_feature_names(), tf_idf_vectorizer.idf_, num_words)
+
+    print("%s (%s): %s" % (year, name, " ".join(top_words)))
 
   #####################################################################
   # LDA analysis
