@@ -1,0 +1,2170 @@
+<?xml version="1.0" encoding="utf-8"  standalone="no"?>
+<svg 
+ width="20000" height="400"
+ viewBox="0 0 20000 400"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+
+<title>Gnuplot</title>
+<desc>Produced by GNUPLOT 5.0 patchlevel 6 </desc>
+
+<g id="gnuplot_canvas">
+
+<rect x="0" y="0" width="20000" height="400" fill="none"/>
+<defs>
+
+	<circle id='gpDot' r='0.5' stroke-width='0.5'/>
+	<path id='gpPt0' stroke-width='0.222' stroke='currentColor' d='M-1,0 h2 M0,-1 v2'/>
+	<path id='gpPt1' stroke-width='0.222' stroke='currentColor' d='M-1,-1 L1,1 M1,-1 L-1,1'/>
+	<path id='gpPt2' stroke-width='0.222' stroke='currentColor' d='M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1'/>
+	<rect id='gpPt3' stroke-width='0.222' stroke='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<rect id='gpPt4' stroke-width='0.222' stroke='currentColor' fill='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<circle id='gpPt5' stroke-width='0.222' stroke='currentColor' cx='0' cy='0' r='1'/>
+	<use xlink:href='#gpPt5' id='gpPt6' fill='currentColor' stroke='none'/>
+	<path id='gpPt7' stroke-width='0.222' stroke='currentColor' d='M0,-1.33 L-1.33,0.67 L1.33,0.67 z'/>
+	<use xlink:href='#gpPt7' id='gpPt8' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt7' id='gpPt9' stroke='currentColor' transform='rotate(180)'/>
+	<use xlink:href='#gpPt9' id='gpPt10' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt3' id='gpPt11' stroke='currentColor' transform='rotate(45)'/>
+	<use xlink:href='#gpPt11' id='gpPt12' fill='currentColor' stroke='none'/>
+	<path id='gpPt13' stroke-width='0.222' stroke='currentColor' d='M0,1.330 L1.265,0.411 L0.782,-1.067 L-0.782,-1.076 L-1.265,0.411 z'/>
+	<use xlink:href='#gpPt13' id='gpPt14' fill='currentColor' stroke='none'/>
+	<filter id='textbox' filterUnits='objectBoundingBox' x='0' y='0' height='1' width='1'>
+	  <feFlood flood-color='white' flood-opacity='1' result='bgnd'/>
+	  <feComposite in='SourceGraphic' in2='bgnd' operator='atop'/>
+	</filter>
+	<filter id='greybox' filterUnits='objectBoundingBox' x='0' y='0' height='1' width='1'>
+	  <feFlood flood-color='lightgrey' flood-opacity='1' result='grey'/>
+	  <feComposite in='SourceGraphic' in2='grey' operator='atop'/>
+	</filter>
+</defs>
+<g fill="none" color="white" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M169.5,360.0 M169.5,40.1  '/>	<g transform="translate(169.5,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >George Washington</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1a" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(169.5,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(169.5,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">ought</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(169.5,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">impressions</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(169.5,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">document</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(169.5,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">immutable</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M508.4,360.0 M508.4,40.1  '/>	<g transform="translate(508.4,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >George Washington</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1b" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(508.4,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">arrive</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(508.4,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">upbraidings</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(508.4,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">violated</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(508.4,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">willingly</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(508.4,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">incurring</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M847.4,360.0 M847.4,40.1  '/>	<g transform="translate(847.4,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >John Adams</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1c" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(847.4,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(847.4,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">pleasing</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(847.4,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">foreign</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(847.4,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">nations</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(847.4,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">virtuous</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M1186.4,360.0 M1186.4,40.1  '/>	<g transform="translate(1186.4,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Thomas Jefferson</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1d" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(1186.4,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(1186.4,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">principle</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(1186.4,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">let</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(1186.4,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">safety</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(1186.4,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">man</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M1525.4,360.0 M1525.4,40.1  '/>	<g transform="translate(1525.4,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Thomas Jefferson</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1e" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(1525.4,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">public</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(1525.4,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">false</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(1525.4,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="26.0">state</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(1525.4,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">whatsoever</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(1525.4,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="28.0">citizens</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M1864.4,360.0 M1864.4,40.1  '/>	<g transform="translate(1864.4,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >James Madison</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1f" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(1864.4,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">improvements</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(1864.4,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">belligerent</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(1864.4,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">public</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(1864.4,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">nations</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(1864.4,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">rendered</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M2203.3,360.0 M2203.3,40.1  '/>	<g transform="translate(2203.3,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >James Madison</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1g" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(2203.3,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">war</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(2203.3,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">british</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(2203.3,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">massacre</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(2203.3,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">prisoners</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(2203.3,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">cruel</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M2542.3,360.0 M2542.3,40.1  '/>	<g transform="translate(2542.3,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >James Monroe</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1h" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(2542.3,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="31.0">states</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(2542.3,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(2542.3,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="31.0">great</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(2542.3,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">union</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(2542.3,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">united</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M2881.3,360.0 M2881.3,40.1  '/>	<g transform="translate(2881.3,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >James Monroe</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1i" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(2881.3,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">great</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(2881.3,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">states</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(2881.3,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">revenue</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(2881.3,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">war</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(2881.3,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">united</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M3220.3,360.0 M3220.3,40.1  '/>	<g transform="translate(3220.3,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >John Quincy Adams</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1j" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(3220.3,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">union</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(3220.3,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="30.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(3220.3,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">general</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(3220.3,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="26.0">rights</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(3220.3,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">dissensions</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M3559.3,360.0 M3559.3,40.1  '/>	<g transform="translate(3559.3,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Andrew Jackson</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1k" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(3559.3,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">public</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(3559.3,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">generally</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(3559.3,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">diffidence</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(3559.3,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="28.0">shall</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(3559.3,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">revenue</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M3898.3,360.0 M3898.3,40.1  '/>	<g transform="translate(3898.3,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Andrew Jackson</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1l" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(3898.3,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">union</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(3898.3,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(3898.3,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="26.0">states</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(3898.3,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">general</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(3898.3,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">preservation</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M4237.2,360.0 M4237.2,40.1  '/>	<g transform="translate(4237.2,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Martin Van Buren</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1m" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(4237.2,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">institutions</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(4237.2,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(4237.2,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="31.0">country</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(4237.2,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">supposed</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(4237.2,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">actual</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M4576.2,360.0 M4576.2,40.1  '/>	<g transform="translate(4576.2,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >William Henry Harrison</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1n" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(4576.2,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">power</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(4576.2,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="29.0">constitution</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(4576.2,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="26.0">executive</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(4576.2,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="29.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(4576.2,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">roman</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M4915.2,360.0 M4915.2,40.1  '/>	<g transform="translate(4915.2,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >James K. Polk</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1o" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(4915.2,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">union</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(4915.2,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(4915.2,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="29.0">states</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(4915.2,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">texas</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(4915.2,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">revenue</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M5254.2,360.0 M5254.2,40.1  '/>	<g transform="translate(5254.2,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Zachary Taylor</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1p" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(5254.2,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">shall</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(5254.2,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">duties</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(5254.2,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(5254.2,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">object</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(5254.2,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">congress</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M5593.2,360.0 M5593.2,40.1  '/>	<g transform="translate(5593.2,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Franklin Pierce</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1q" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(5593.2,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">hardly</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(5593.2,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">power</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(5593.2,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">position</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(5593.2,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">constitutional</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(5593.2,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="30.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M5932.2,360.0 M5932.2,40.1  '/>	<g transform="translate(5932.2,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >James Buchanan</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1r" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(5932.2,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">states</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(5932.2,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="28.0">constitution</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(5932.2,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="29.0">shall</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(5932.2,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">question</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(5932.2,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">territory</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M6271.1,360.0 M6271.1,40.1  '/>	<g transform="translate(6271.1,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Abraham Lincoln</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1s" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(6271.1,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">constitution</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(6271.1,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="29.0">union</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(6271.1,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">case</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(6271.1,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="28.0">states</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(6271.1,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">minority</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M6610.1,360.0 M6610.1,40.1  '/>	<g transform="translate(6610.1,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Abraham Lincoln</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1t" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(6610.1,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">war</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(6610.1,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">offenses</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(6610.1,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">woe</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(6610.1,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">address</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(6610.1,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">god</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M6949.1,360.0 M6949.1,40.1  '/>	<g transform="translate(6949.1,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Ulysses S. Grant</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1u" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(6949.1,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">dollar</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(6949.1,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">paying</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(6949.1,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">specie</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(6949.1,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">deal</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(6949.1,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">debt</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M7288.1,360.0 M7288.1,40.1  '/>	<g transform="translate(7288.1,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Ulysses S. Grant</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1v" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(7288.1,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">proposition</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(7288.1,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">transit</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(7288.1,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">santo</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(7288.1,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">domingo</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(7288.1,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">territory</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M7627.1,360.0 M7627.1,40.1  '/>	<g transform="translate(7627.1,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Rutherford B. Hayes</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1w" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(7627.1,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">country</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(7627.1,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="30.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(7627.1,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">behalf</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(7627.1,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="26.0">public</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(7627.1,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">political</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M7966.1,360.0 M7966.1,40.1  '/>	<g transform="translate(7966.1,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >James A. Garfield</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1x" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(7966.1,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(7966.1,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">constitution</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(7966.1,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">states</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(7966.1,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">union</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(7966.1,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">suffrage</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M8305.0,360.0 M8305.0,40.1  '/>	<g transform="translate(8305.0,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Grover Cleveland</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1y" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(8305.0,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(8305.0,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">partisan</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(8305.0,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">public</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(8305.0,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="26.0">shall</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(8305.0,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">constitution</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M8644.0,360.0 M8644.0,40.1  '/>	<g transform="translate(8644.0,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Benjamin Harrison</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1z" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(8644.0,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="29.0">laws</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(8644.0,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">states</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(8644.0,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="29.0">public</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(8644.0,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">ballot</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(8644.0,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="30.0">shall</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M8983.0,360.0 M8983.0,40.1  '/>	<g transform="translate(8983.0,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Grover Cleveland</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(8983.0,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(8983.0,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">frugality</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(8983.0,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">service</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(8983.0,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="26.0">public</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(8983.0,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">support</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M9322.0,360.0 M9322.0,40.1  '/>	<g transform="translate(9322.0,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >William McKinley</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(9322.0,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="29.0">congress</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(9322.0,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">revenue</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(9322.0,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(9322.0,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">loans</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(9322.0,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">legislation</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M9661.0,360.0 M9661.0,40.1  '/>	<g transform="translate(9661.0,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >William McKinley</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(9661.0,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">islands</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(9661.0,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">cuba</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(9661.0,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(9661.0,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="26.0">executive</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(9661.0,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">inhabitants</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M10000.0,360.0 M10000.0,40.1  '/>	<g transform="translate(10000.0,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Theodore Roosevelt</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(10000.0,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">regards</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(10000.0,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">problems</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(10000.0,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">tasks</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(10000.0,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">aright</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(10000.0,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="28.0">republic</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M10338.9,360.0 M10338.9,40.1  '/>	<g transform="translate(10338.9,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >William Howard Taft</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(10338.9,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">interstate</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(10338.9,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">business</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(10338.9,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">tariff</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(10338.9,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">negro</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(10338.9,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">south</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M10677.9,360.0 M10677.9,40.1  '/>	<g transform="translate(10677.9,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Woodrow Wilson</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(10677.9,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">great</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(10677.9,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="29.0">men</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(10677.9,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">familiar</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(10677.9,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">stirred</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(10677.9,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">studied</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M11016.9,360.0 M11016.9,40.1  '/>	<g transform="translate(11016.9,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Woodrow Wilson</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(11016.9,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">wished</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(11016.9,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">counsel</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(11016.9,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="30.0">purpose</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(11016.9,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="28.0">action</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(11016.9,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">shall</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M11355.9,360.0 M11355.9,40.1  '/>	<g transform="translate(11355.9,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Warren Harding</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(11355.9,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">world</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(11355.9,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">civilization</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(11355.9,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="26.0">america</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(11355.9,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="26.0">war</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(11355.9,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">relationship</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M11694.9,360.0 M11694.9,40.1  '/>	<g transform="translate(11694.9,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Calvin Coolidge</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(11694.9,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">country</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(11694.9,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">ought</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(11694.9,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">represents</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(11694.9,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">tax</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(11694.9,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="31.0">great</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M12033.9,360.0 M12033.9,40.1  '/>	<g transform="translate(12033.9,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Herbert Hoover</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(12033.9,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(12033.9,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">enforcement</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(12033.9,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">progress</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(12033.9,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">federal</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(12033.9,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">eighteenth</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M12372.8,360.0 M12372.8,40.1  '/>	<g transform="translate(12372.8,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Franklin Roosevelt</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(12372.8,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">helped</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(12372.8,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">leadership</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(12372.8,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">stricken</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(12372.8,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">emergency</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(12372.8,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">national</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M12711.8,360.0 M12711.8,40.1  '/>	<g transform="translate(12711.8,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Franklin Roosevelt</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(12711.8,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">democracy</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(12711.8,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(12711.8,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">millions</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(12711.8,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">paint</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(12711.8,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">economic</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M13050.8,360.0 M13050.8,40.1  '/>	<g transform="translate(13050.8,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Franklin Roosevelt</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(13050.8,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">democracy</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(13050.8,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">speaks</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(13050.8,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="29.0">know</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(13050.8,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">nation</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(13050.8,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">spirit</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M13389.8,360.0 M13389.8,40.1  '/>	<g transform="translate(13389.8,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Franklin Roosevelt</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(13389.8,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="28.0">learned</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(13389.8,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">test</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(13389.8,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">shall</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(13389.8,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">trend</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(13389.8,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">mistakes</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M13728.8,360.0 M13728.8,40.1  '/>	<g transform="translate(13728.8,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Harry S. Truman</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(13728.8,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">world</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(13728.8,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="31.0">nations</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(13728.8,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">program</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(13728.8,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">peoples</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(13728.8,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">democracy</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M14067.8,360.0 M14067.8,40.1  '/>	<g transform="translate(14067.8,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Dwight Eisenhower</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(14067.8,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">free</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(14067.8,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">faith</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(14067.8,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="29.0">world</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(14067.8,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">peoples</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(14067.8,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">productivity</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M14406.7,360.0 M14406.7,40.1  '/>	<g transform="translate(14406.7,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Dwight Eisenhower</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(14406.7,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">world</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(14406.7,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="28.0">freedom</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(14406.7,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">seek</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(14406.7,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="30.0">nations</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(14406.7,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">strives</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M14745.7,360.0 M14745.7,40.1  '/>	<g transform="translate(14745.7,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >John F. Kennedy</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(14745.7,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">let</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(14745.7,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">sides</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(14745.7,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">pledge</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(14745.7,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">new</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(14745.7,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">dare</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M15084.7,360.0 M15084.7,40.1  '/>	<g transform="translate(15084.7,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Lyndon Johnson</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(15084.7,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">covenant</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(15084.7,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="30.0">change</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(15084.7,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">man</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(15084.7,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">mastery</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(15084.7,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="29.0">union</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M15423.7,360.0 M15423.7,40.1  '/>	<g transform="translate(15423.7,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Richard Nixon</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(15423.7,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">voices</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(15423.7,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">earth</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(15423.7,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">let</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(15423.7,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="28.0">know</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(15423.7,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="28.0">man</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M15762.7,360.0 M15762.7,40.1  '/>	<g transform="translate(15762.7,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Richard Nixon</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(15762.7,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="31.0">america</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(15762.7,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">let</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(15762.7,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="30.0">peace</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(15762.7,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">role</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(15762.7,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="29.0">world</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M16101.7,360.0 M16101.7,40.1  '/>	<g transform="translate(16101.7,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Gerald Ford</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(16101.7,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">president</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(16101.7,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">friends</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(16101.7,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">presidency</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(16101.7,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">prayers</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(16101.7,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">wife</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M16440.6,360.0 M16440.6,40.1  '/>	<g transform="translate(16440.6,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Jimmy Carter</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(16440.6,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">nation</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(16440.6,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">dream</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(16440.6,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="26.0">strength</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(16440.6,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="28.0">new</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(16440.6,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">micah</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M16779.6,360.0 M16779.6,40.1  '/>	<g transform="translate(16779.6,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Ronald Reagan</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(16779.6,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(16779.6,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">americans</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(16779.6,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">heroes</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(16779.6,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="26.0">believe</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(16779.6,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">dreams</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M17118.6,360.0 M17118.6,40.1  '/>	<g transform="translate(17118.6,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Ronald Reagan</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(17118.6,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="28.0">freedom</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(17118.6,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">nuclear</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(17118.6,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">government</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(17118.6,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">weapons</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(17118.6,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="30.0">world</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M17457.6,360.0 M17457.6,40.1  '/>	<g transform="translate(17457.6,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >George H. W. Bush</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(17457.6,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">don</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(17457.6,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">breeze</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(17457.6,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">new</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(17457.6,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">door</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(17457.6,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">word</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M17796.6,360.0 M17796.6,40.1  '/>	<g transform="translate(17796.6,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Bill Clinton</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(17796.6,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="30.0">america</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(17796.6,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">world</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(17796.6,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">americans</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(17796.6,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">change</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(17796.6,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">today</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M18135.5,360.0 M18135.5,40.1  '/>	<g transform="translate(18135.5,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Bill Clinton</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(18135.5,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">century</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(18135.5,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">new</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(18135.5,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">america</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(18135.5,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">promise</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(18135.5,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="24.0">world</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M18474.5,360.0 M18474.5,40.1  '/>	<g transform="translate(18474.5,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >George W. Bush</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(18474.5,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="30.0">story</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(18474.5,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">america</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(18474.5,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">civility</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(18474.5,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">nation</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(18474.5,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">affirm</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M18813.5,360.0 M18813.5,40.1  '/>	<g transform="translate(18813.5,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >George W. Bush</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(18813.5,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">freedom</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(18813.5,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="28.0">america</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(18813.5,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="26.0">liberty</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(18813.5,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">americans</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(18813.5,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">tyranny</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M19152.5,360.0 M19152.5,40.1  '/>	<g transform="translate(19152.5,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Barack Obama</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(19152.5,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="29.0">america</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(19152.5,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="30.0">new</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(19152.5,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">nation</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(19152.5,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">generation</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(19152.5,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">today</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M19491.5,360.0 M19491.5,40.1  '/>	<g transform="translate(19491.5,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Barack Obama</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(19491.5,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">journey</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(19491.5,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">creed</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(19491.5,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="25.0">generation</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(19491.5,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">america</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(19491.5,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">requires</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M19830.5,360.0 M19830.5,40.1  '/>	<g transform="translate(19830.5,381.9)" stroke="none" fill="black" font-family="Fira Sans" font-size="12.00"  font-weight="bold"  text-anchor="middle">
+		<text><tspan font-family="Fira Sans" >Donald Trump</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>"Topics_gnuplot.txt" using 1:(4-$2):(scale(stringcolumn(4),$5*10+10)):xticlabel(3) index i</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(19830.5,44.0)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="32.0">america</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(19830.5,115.1)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="23.0">dreams</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(19830.5,186.2)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="27.0">american</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(19830.5,257.3)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">jobs</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+	<g transform="translate(19830.5,328.4)" stroke="none" fill="black" font-family="Crimson" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Crimson"  font-size="22.0">obama</tspan><tspan font-size="12.0" dy="0.00"></tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="white" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+</g>
+</svg>
+
