@@ -9,7 +9,7 @@ set bmargin 2
 set tmargin 0
 set rmargin 1
 
-set terminal svg size 800,300 dynamic enhanced fname 'Fira Sans' fsize 10 mousing name "hypertext_1"
+set terminal svg size 800,300 dynamic enhanced fname 'Fira Sans' fsize 10 mousing name "hypertext_1" jsdir "/"
 set size ratio 0.25
 set xlabel "Time" offset 0,-0.5
 set ylabel "Average sentence length"
