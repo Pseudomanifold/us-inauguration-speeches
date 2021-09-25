@@ -1,0 +1,413 @@
+1789 0 "George Washington" government 1.000000
+1789 1 "George Washington" ought 0.333333
+1789 2 "George Washington" impressions 0.000000
+1789 3 "George Washington" document 0.000000
+1789 4 "George Washington" immutable 0.000000
+
+
+1793 0 "George Washington" arrive 1.000000
+1793 1 "George Washington" upbraidings 1.000000
+1793 2 "George Washington" violated 1.000000
+1793 3 "George Washington" willingly 1.000000
+1793 4 "George Washington" incurring 1.000000
+
+
+1797 0 "John Adams" government 1.000000
+1797 1 "John Adams" pleasing 0.000000
+1797 2 "John Adams" foreign 0.333333
+1797 3 "John Adams" nations 0.583333
+1797 4 "John Adams" virtuous 0.000000
+
+
+1801 0 "Thomas Jefferson" government 1.000000
+1801 1 "Thomas Jefferson" principle 0.142857
+1801 2 "Thomas Jefferson" let 0.285714
+1801 3 "Thomas Jefferson" safety 0.000000
+1801 4 "Thomas Jefferson" man 0.142857
+
+
+1805 0 "Thomas Jefferson" public 1.000000
+1805 1 "Thomas Jefferson" false 0.181818
+1805 2 "Thomas Jefferson" state 0.454545
+1805 3 "Thomas Jefferson" whatsoever 0.000000
+1805 4 "Thomas Jefferson" citizens 0.636364
+
+
+1809 0 "James Madison" improvements 0.250000
+1809 1 "James Madison" belligerent 0.000000
+1809 2 "James Madison" public 1.000000
+1809 3 "James Madison" nations 1.000000
+1809 4 "James Madison" rendered 0.000000
+
+
+1813 0 "James Madison" war 1.000000
+1813 1 "James Madison" british 0.230769
+1813 2 "James Madison" massacre 0.000000
+1813 3 "James Madison" prisoners 0.000000
+1813 4 "James Madison" cruel 0.000000
+
+
+1817 0 "James Monroe" states 0.916667
+1817 1 "James Monroe" government 1.000000
+1817 2 "James Monroe" great 0.916667
+1817 3 "James Monroe" union 0.000000
+1817 4 "James Monroe" united 0.250000
+
+
+1821 0 "James Monroe" great 1.000000
+1821 1 "James Monroe" states 0.550000
+1821 2 "James Monroe" revenue 0.000000
+1821 3 "James Monroe" war 0.350000
+1821 4 "James Monroe" united 0.350000
+
+
+1825 0 "John Quincy Adams" union 1.000000
+1825 1 "John Quincy Adams" government 0.823529
+1825 2 "John Quincy Adams" general 0.294118
+1825 3 "John Quincy Adams" rights 0.411765
+1825 4 "John Quincy Adams" dissensions 0.000000
+
+
+1829 0 "Andrew Jackson" public 1.000000
+1829 1 "Andrew Jackson" generally 0.166667
+1829 2 "Andrew Jackson" diffidence 0.000000
+1829 3 "Andrew Jackson" shall 0.666667
+1829 4 "Andrew Jackson" revenue 0.166667
+
+
+1833 0 "Andrew Jackson" union 0.555556
+1833 1 "Andrew Jackson" government 1.000000
+1833 2 "Andrew Jackson" states 0.444444
+1833 3 "Andrew Jackson" general 0.111111
+1833 4 "Andrew Jackson" preservation 0.000000
+
+
+1837 0 "Martin Van Buren" institutions 1.000000
+1837 1 "Martin Van Buren" government 1.000000
+1837 2 "Martin Van Buren" country 0.909091
+1837 3 "Martin Van Buren" supposed 0.000000
+1837 4 "Martin Van Buren" actual 0.000000
+
+
+1841 0 "William Henry Harrison" power 1.000000
+1841 1 "William Henry Harrison" constitution 0.725000
+1841 2 "William Henry Harrison" executive 0.450000
+1841 3 "William Henry Harrison" government 0.725000
+1841 4 "William Henry Harrison" roman 0.000000
+
+
+1845 0 "James K. Polk" union 0.594595
+1845 1 "James K. Polk" government 1.000000
+1845 2 "James K. Polk" states 0.702703
+1845 3 "James K. Polk" texas 0.000000
+1845 4 "James K. Polk" revenue 0.081081
+
+
+1849 0 "Zachary Taylor" shall 1.000000
+1849 1 "Zachary Taylor" duties 0.166667
+1849 2 "Zachary Taylor" government 0.333333
+1849 3 "Zachary Taylor" object 0.000000
+1849 4 "Zachary Taylor" congress 0.083333
+
+
+1853 0 "Franklin Pierce" hardly 0.000000
+1853 1 "Franklin Pierce" power 1.000000
+1853 2 "Franklin Pierce" position 0.142857
+1853 3 "Franklin Pierce" constitutional 0.285714
+1853 4 "Franklin Pierce" government 0.857143
+
+
+1857 0 "James Buchanan" states 1.000000
+1857 1 "James Buchanan" constitution 0.642857
+1857 2 "James Buchanan" shall 0.714286
+1857 3 "James Buchanan" question 0.214286
+1857 4 "James Buchanan" territory 0.000000
+
+
+1861 0 "Abraham Lincoln" constitution 1.000000
+1861 1 "Abraham Lincoln" union 0.777778
+1861 2 "Abraham Lincoln" case 0.166667
+1861 3 "Abraham Lincoln" states 0.666667
+1861 4 "Abraham Lincoln" minority 0.000000
+
+
+1865 0 "Abraham Lincoln" war 1.000000
+1865 1 "Abraham Lincoln" offenses 0.000000
+1865 2 "Abraham Lincoln" woe 0.000000
+1865 3 "Abraham Lincoln" address 0.000000
+1865 4 "Abraham Lincoln" god 0.333333
+
+
+1869 0 "Ulysses S. Grant" dollar 1.000000
+1869 1 "Ulysses S. Grant" paying 0.000000
+1869 2 "Ulysses S. Grant" specie 0.000000
+1869 3 "Ulysses S. Grant" deal 0.000000
+1869 4 "Ulysses S. Grant" debt 0.500000
+
+
+1873 0 "Ulysses S. Grant" proposition 1.000000
+1873 1 "Ulysses S. Grant" transit 0.000000
+1873 2 "Ulysses S. Grant" santo 0.000000
+1873 3 "Ulysses S. Grant" domingo 0.000000
+1873 4 "Ulysses S. Grant" territory 1.000000
+
+
+1877 0 "Rutherford B. Hayes" country 1.000000
+1877 1 "Rutherford B. Hayes" government 0.866667
+1877 2 "Rutherford B. Hayes" behalf 0.000000
+1877 3 "Rutherford B. Hayes" public 0.400000
+1877 4 "Rutherford B. Hayes" political 0.333333
+
+
+1881 0 "James A. Garfield" government 1.000000
+1881 1 "James A. Garfield" constitution 0.529412
+1881 2 "James A. Garfield" states 0.529412
+1881 3 "James A. Garfield" union 0.294118
+1881 4 "James A. Garfield" suffrage 0.000000
+
+
+1885 0 "Grover Cleveland" government 1.000000
+1885 1 "Grover Cleveland" partisan 0.000000
+1885 2 "Grover Cleveland" public 0.500000
+1885 3 "Grover Cleveland" shall 0.416667
+1885 4 "Grover Cleveland" constitution 0.250000
+
+
+1889 0 "Benjamin Harrison" laws 0.785714
+1889 1 "Benjamin Harrison" states 1.000000
+1889 2 "Benjamin Harrison" public 0.785714
+1889 3 "Benjamin Harrison" ballot 0.000000
+1889 4 "Benjamin Harrison" shall 0.857143
+
+
+1893 0 "Grover Cleveland" government 1.000000
+1893 1 "Grover Cleveland" frugality 0.000000
+1893 2 "Grover Cleveland" service 0.363636
+1893 3 "Grover Cleveland" public 0.454545
+1893 4 "Grover Cleveland" support 0.363636
+
+
+1897 0 "William McKinley" congress 0.705882
+1897 1 "William McKinley" revenue 0.352941
+1897 2 "William McKinley" government 1.000000
+1897 3 "William McKinley" loans 0.000000
+1897 4 "William McKinley" legislation 0.176471
+
+
+1901 0 "William McKinley" islands 0.200000
+1901 1 "William McKinley" cuba 0.000000
+1901 2 "William McKinley" government 1.000000
+1901 3 "William McKinley" executive 0.400000
+1901 4 "William McKinley" inhabitants 0.000000
+
+
+1905 0 "Theodore Roosevelt" regards 0.333333
+1905 1 "Theodore Roosevelt" problems 1.000000
+1905 2 "Theodore Roosevelt" tasks 0.333333
+1905 3 "Theodore Roosevelt" aright 0.000000
+1905 4 "Theodore Roosevelt" republic 0.666667
+
+
+1909 0 "William Howard Taft" interstate 0.153846
+1909 1 "William Howard Taft" business 1.000000
+1909 2 "William Howard Taft" tariff 0.307692
+1909 3 "William Howard Taft" negro 0.000000
+1909 4 "William Howard Taft" south 0.230769
+
+
+1913 0 "Woodrow Wilson" great 1.000000
+1913 1 "Woodrow Wilson" men 0.727273
+1913 2 "Woodrow Wilson" familiar 0.000000
+1913 3 "Woodrow Wilson" stirred 0.000000
+1913 4 "Woodrow Wilson" studied 0.000000
+
+
+1917 0 "Woodrow Wilson" wished 0.000000
+1917 1 "Woodrow Wilson" counsel 0.200000
+1917 2 "Woodrow Wilson" purpose 0.800000
+1917 3 "Woodrow Wilson" action 0.600000
+1917 4 "Woodrow Wilson" shall 1.000000
+
+
+1921 0 "Warren Harding" world 1.000000
+1921 1 "Warren Harding" civilization 0.304348
+1921 2 "Warren Harding" america 0.434783
+1921 3 "Warren Harding" war 0.434783
+1921 4 "Warren Harding" relationship 0.000000
+
+
+1925 0 "Calvin Coolidge" country 1.000000
+1925 1 "Calvin Coolidge" ought 0.384615
+1925 2 "Calvin Coolidge" represents 0.000000
+1925 3 "Calvin Coolidge" tax 0.153846
+1925 4 "Calvin Coolidge" great 0.923077
+
+
+1929 0 "Herbert Hoover" government 1.000000
+1929 1 "Herbert Hoover" enforcement 0.214286
+1929 2 "Herbert Hoover" progress 0.392857
+1929 3 "Herbert Hoover" federal 0.214286
+1929 4 "Herbert Hoover" eighteenth 0.000000
+
+
+1933 0 "Franklin Roosevelt" helped 0.571429
+1933 1 "Franklin Roosevelt" leadership 0.571429
+1933 2 "Franklin Roosevelt" stricken 0.000000
+1933 3 "Franklin Roosevelt" emergency 0.142857
+1933 4 "Franklin Roosevelt" national 1.000000
+
+
+1937 0 "Franklin Roosevelt" democracy 0.384615
+1937 1 "Franklin Roosevelt" government 1.000000
+1937 2 "Franklin Roosevelt" millions 0.230769
+1937 3 "Franklin Roosevelt" paint 0.000000
+1937 4 "Franklin Roosevelt" economic 0.153846
+
+
+1941 0 "Franklin Roosevelt" democracy 0.571429
+1941 1 "Franklin Roosevelt" speaks 0.000000
+1941 2 "Franklin Roosevelt" know 0.714286
+1941 3 "Franklin Roosevelt" nation 1.000000
+1941 4 "Franklin Roosevelt" spirit 0.571429
+
+
+1945 0 "Franklin Roosevelt" learned 0.600000
+1945 1 "Franklin Roosevelt" test 0.200000
+1945 2 "Franklin Roosevelt" shall 1.000000
+1945 3 "Franklin Roosevelt" trend 0.000000
+1945 4 "Franklin Roosevelt" mistakes 0.000000
+
+
+1949 0 "Harry S. Truman" world 1.000000
+1949 1 "Harry S. Truman" nations 0.937500
+1949 2 "Harry S. Truman" program 0.000000
+1949 3 "Harry S. Truman" peoples 0.125000
+1949 4 "Harry S. Truman" democracy 0.125000
+
+
+1953 0 "Dwight Eisenhower" free 1.000000
+1953 1 "Dwight Eisenhower" faith 0.529412
+1953 2 "Dwight Eisenhower" world 0.705882
+1953 3 "Dwight Eisenhower" peoples 0.176471
+1953 4 "Dwight Eisenhower" productivity 0.000000
+
+
+1957 0 "Dwight Eisenhower" world 1.000000
+1957 1 "Dwight Eisenhower" freedom 0.615385
+1957 2 "Dwight Eisenhower" seek 0.538462
+1957 3 "Dwight Eisenhower" nations 0.846154
+1957 4 "Dwight Eisenhower" strives 0.000000
+
+
+1961 0 "John F. Kennedy" let 1.000000
+1961 1 "John F. Kennedy" sides 0.384615
+1961 2 "John F. Kennedy" pledge 0.307692
+1961 3 "John F. Kennedy" new 0.384615
+1961 4 "John F. Kennedy" dare 0.000000
+
+
+1965 0 "Lyndon Johnson" covenant 0.285714
+1965 1 "Lyndon Johnson" change 0.857143
+1965 2 "Lyndon Johnson" man 1.000000
+1965 3 "Lyndon Johnson" mastery 0.000000
+1965 4 "Lyndon Johnson" union 0.714286
+
+
+1969 0 "Richard Nixon" voices 0.000000
+1969 1 "Richard Nixon" earth 0.333333
+1969 2 "Richard Nixon" let 1.000000
+1969 3 "Richard Nixon" know 0.666667
+1969 4 "Richard Nixon" man 0.666667
+
+
+1973 0 "Richard Nixon" america 0.933333
+1973 1 "Richard Nixon" let 1.000000
+1973 2 "Richard Nixon" peace 0.800000
+1973 3 "Richard Nixon" role 0.000000
+1973 4 "Richard Nixon" world 0.733333
+
+
+1974 0 "Gerald Ford" president 1.000000
+1974 1 "Gerald Ford" friends 0.500000
+1974 2 "Gerald Ford" presidency 0.166667
+1974 3 "Gerald Ford" prayers 0.166667
+1974 4 "Gerald Ford" wife 0.000000
+
+
+1977 0 "Jimmy Carter" nation 1.000000
+1977 1 "Jimmy Carter" dream 0.272727
+1977 2 "Jimmy Carter" strength 0.454545
+1977 3 "Jimmy Carter" new 0.636364
+1977 4 "Jimmy Carter" micah 0.000000
+
+
+1981 0 "Ronald Reagan" government 1.000000
+1981 1 "Ronald Reagan" americans 0.384615
+1981 2 "Ronald Reagan" heroes 0.076923
+1981 3 "Ronald Reagan" believe 0.461538
+1981 4 "Ronald Reagan" dreams 0.000000
+
+
+1985 0 "Ronald Reagan" freedom 0.666667
+1985 1 "Ronald Reagan" nuclear 0.000000
+1985 2 "Ronald Reagan" government 1.000000
+1985 3 "Ronald Reagan" weapons 0.000000
+1985 4 "Ronald Reagan" world 0.833333
+
+
+1989 0 "George H. W. Bush" don 0.200000
+1989 1 "George H. W. Bush" breeze 0.100000
+1989 2 "George H. W. Bush" new 1.000000
+1989 3 "George H. W. Bush" door 0.000000
+1989 4 "George H. W. Bush" word 0.100000
+
+
+1993 0 "Bill Clinton" america 0.818182
+1993 1 "Bill Clinton" world 1.000000
+1993 2 "Bill Clinton" americans 0.000000
+1993 3 "Bill Clinton" change 0.000000
+1993 4 "Bill Clinton" today 0.000000
+
+
+1997 0 "Bill Clinton" century 0.526316
+1997 1 "Bill Clinton" new 1.000000
+1997 2 "Bill Clinton" america 0.263158
+1997 3 "Bill Clinton" promise 0.000000
+1997 4 "Bill Clinton" world 0.263158
+
+
+2001 0 "George W. Bush" story 0.875000
+2001 1 "George W. Bush" america 1.000000
+2001 2 "George W. Bush" civility 0.125000
+2001 3 "George W. Bush" nation 1.000000
+2001 4 "George W. Bush" affirm 0.000000
+
+
+2005 0 "George W. Bush" freedom 1.000000
+2005 1 "George W. Bush" america 0.681818
+2005 2 "George W. Bush" liberty 0.454545
+2005 3 "George W. Bush" americans 0.136364
+2005 4 "George W. Bush" tyranny 0.000000
+
+
+2009 0 "Barack Obama" america 0.714286
+2009 1 "Barack Obama" new 0.857143
+2009 2 "Barack Obama" nation 1.000000
+2009 3 "Barack Obama" generation 0.000000
+2009 4 "Barack Obama" today 0.142857
+
+
+2013 0 "Barack Obama" journey 0.333333
+2013 1 "Barack Obama" creed 0.000000
+2013 2 "Barack Obama" generation 0.333333
+2013 3 "Barack Obama" america 1.000000
+2013 4 "Barack Obama" requires 0.000000
+
+
+2017 0 "Donald Trump" america 1.000000
+2017 1 "Donald Trump" dreams 0.125000
+2017 2 "Donald Trump" american 0.500000
+2017 3 "Donald Trump" jobs 0.062500
+2017 4 "Donald Trump" obama 0.000000
+
+
